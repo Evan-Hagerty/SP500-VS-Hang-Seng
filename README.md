@@ -1,2 +1,2 @@
 # sp-and-hang-seng
-Comparing the correlation between the s&amp;p 500 and the hang seng index
+Comparing the correlation between the S&amp;P 500 and the Hang Seng index
