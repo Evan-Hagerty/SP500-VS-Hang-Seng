@@ -20,4 +20,6 @@ All data for this project is pulled from the yFinance API by using pandas data r
   - yFinance 
 
 **Running**
-1. You can launch jupyter notebook through anaconda or simply click on the 
+1. You can launch jupyter notebook through anaconda and open the seng.ipynb file in the 
+2. or simply click on the sp500 hang seng.ipynb file and it should load through git hub
+3. 
