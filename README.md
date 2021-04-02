@@ -7,7 +7,7 @@ All data for this project is pulled from the yFinance API by using pandas data r
 - Anaconda 4.9.2
 
 **Installation**
-1. Download the project from git hub https://github.com/Evan-Hagerty/SP500-VS-Hang-Seng/
+1. Clone the project from git hub https://github.com/Evan-Hagerty/SP500-VS-Hang-Seng/
 2. Open using Jupyter Notebooks preferably through anaconda. 
 3. Have these installed to run on jupyter notebooks. May require pip install on any or all of these.  
   - pandas
