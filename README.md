@@ -20,6 +20,7 @@ All data for this project is pulled from the yFinance API by using pandas data r
   - yFinance 
 
 **Running**
-1. You can launch jupyter notebook through anaconda and open the seng.ipynb file in the SP500 VS Hang Seng folder
+1. You can launch jupyter notebook through anaconda and open the sp500 hang seng.ipynb file in the SP500 VS Hang Seng folder
 2. Or click on the sp500 hang seng.ipynb file and it should load through git hub
 
+Thanks to Nate Pratik and Especially Will for mentoring me through this course. I really enjoyed getting to interact with people who actually work with python regularly. Hope to maybe see you in the professional world one day or maybe through zoom again. 
